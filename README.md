@@ -1,0 +1,1 @@
+Dump of working scripts for usb relay using a CH 340 chip. Download "Toogle2.ps1" "fluxstate.txt" into a user folder and configure COM port and file addresses to get it working on a new machine. AutoHotkey can map the toggle function to a keyboard shortcut, like F7.
